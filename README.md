@@ -58,8 +58,8 @@ The system uses a trained **CNN model** for image-based classification and is in
 
 ### 📫 Let's Connect!
 - GitHub: [github.com/Fatma-Zayed17](https://github.com/Fatma-Zayed17)
-- LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name) <!-- Replace with actual -->
-- Email: your.email@example.com <!-- Replace with actual -->
+- LinkedIn: [linkedin.com/in/fatma-zayed-3a21aa238](https://linkedin.com/in/fatma-zayed-3a21aa238)
+- Email: fatma221101040@gmail.com
 
 ---
 

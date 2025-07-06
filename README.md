@@ -19,6 +19,9 @@
 - 🧠 **ICPC Participant**  
   My journey in **competitive programming** at ICPC sharpened my **problem-solving** and **algorithmic thinking**.
 
+- 🌿 **Graduation Project:**  
+  Developed a **Smart AI-Powered Robotic Car** to detect and classify plant diseases using image processing and IoT — supporting smart agriculture with real-time insights.
+
 ---
 
 ## 🌱 Graduation Project

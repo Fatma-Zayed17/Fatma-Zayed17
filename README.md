@@ -1,79 +1,69 @@
-<p align="center">
-  <img src="ce247862-dec8-4009-81ae-51065b65168d.png" alt="Hello Fatma Zayed" width="600"/>
-</p>
+*## Hi there 👋
 
-<h1 align="center">Hi there 👋, I'm Fatma Zayed</h1>
-
-<p align="center">
-🎓 Artificial Intelligence & Computer Science Graduate  
-<br>
-💻 AI | Machine Learning | Deep Learning | NLP | Data Mining | IoT  
-</p>
+🎓 I'm **Fatma Zayed**, an Artificial Intelligence and Computer Science graduate from **King Salman International University**.  
+I'm passionate about turning complex problems into intelligent solutions using AI and modern technologies.
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a graduate of **King Salman International University**, specialized in **Artificial Intelligence and Computer Science**.  
-I'm passionate about developing intelligent systems that combine data, algorithms, and smart decision-making.  
-I have a strong foundation in AI techniques, software development, and real-world problem solving.  
-I also participated in the **ICPC university competition**, which enhanced my skills in algorithms and problem-solving.
+### 🔍 About Me
+- 💡 I'm interested in **AI, Machine Learning, Deep Learning, NLP, Data Mining, and Knowledge-Based Systems**
+- 💻 I enjoy working on **data analysis, algorithm design, and building AI-powered applications**
+- 📚 I've also studied **Optimization Techniques, Linear Algebra**, and completed a **Digital Marketing** course
+- 🧠 I participated in **ICPC**, showcasing strong **problem-solving and algorithmic** skills
 
 ---
 
-## 🚘 Graduation Project:  
-### Smart Vehicle for Plant Diseases Detection and Classification Using AI and IoT  
+### 📌 Graduation Project:  
+#### Smart Vehicle for Plant Diseases Detection and Classification Using AI and IoT  
 > *(Farmer Eye Robotic Car)*
 
-A smart AI-powered robotic vehicle designed to **detect and classify plant diseases** in real time.  
-It uses a camera and environmental sensors to monitor crop health and send live feedback to farmers.
+A smart robotic vehicle designed to detect and classify plant diseases in real-time using computer vision and IoT technologies.  
+The system uses a trained **CNN model** for image-based classification and is integrated with **temperature and humidity sensors** for environmental monitoring.
 
-**🔧 Key Features:**
-- AI Model (CNN) for plant disease classification
-- Real-time image processing using OpenCV
-- IoT sensors (DHT11) for temperature & humidity
-- Motor control using Arduino
-- Live monitoring and reporting system
-
-**🛠 Tools & Technologies:**
-`Python` · `TensorFlow` · `Keras` · `OpenCV` · `Arduino` · `IoT` · `Machine Learning`
+**Key Technologies Used:**
+- 🔹 Python, TensorFlow/Keras, OpenCV
+- 🔹 Arduino, DC Motors, Camera Module, DHT11 Sensor
+- 🔹 IoT-based Live Monitoring
+- 🔹 Image Classification & Disease Detection
 
 ---
 
-## 🧠 Technical Skills
+### 🛠️ Technical Skills
 
-### Languages  
-`Python` · `Java` · `C++`
+**Languages:**  
+`Python`, `Java`, `C++`
 
-### AI & Data Science  
-`Machine Learning` · `Deep Learning` · `CNN` · `LSTM` · `Data Mining` · `NLP` · `Knowledge-Based Systems`
+**AI & ML:**  
+`Machine Learning`, `Deep Learning`, `CNN`, `LSTM`, `Data Mining`, `NLP`, `Knowledge-Based Systems`
 
-### Data Analysis & Visualization  
-`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+**Tools & Frameworks:**  
+`TensorFlow`, `Keras`, `Scikit-learn`, `OpenCV`, `Arduino`
 
-### Databases  
-`SQL` · `MySQL` · `Database Management Systems`
+**Data Analysis & Visualization:**  
+`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-### Others  
-`R Programming` · `Optimization Techniques` · `Digital Marketing Basics`
+**Databases:**  
+`SQL`, `MySQL`, `Database Management Systems`
 
----
-
-## 🚀 Currently Exploring
-- Advanced NLP using Transformers (BERT, GPT)
-- Real-world AI projects in agriculture & healthcare
-- Creating personal AI-powered tools & assistants
+**Others:**  
+`R Programming`, `Optimization Techniques`, `Digital Marketing`
 
 ---
 
-## 📫 Connect With Me
-
-- 💻 GitHub: [github.com/Fatma-Zayed17](https://github.com/Fatma-Zayed17)
-- 💼 LinkedIn: [linkedin.com/in/fatma-zayed-3a21aa238](https://www.linkedin.com/in/fatma-zayed-3a21aa238)
-- 📧 Email: fatma221101040@gmail.com
+### 🚀 Currently Exploring
+- Advanced NLP with Transformers 🤖
+- Real-world AI solutions for agriculture and healthcare 🌿
+- Building personal AI-based mini-projects
 
 ---
 
-<p align="center">
-  🔍 *Always learning. Always building.* 🚀
-</p>
+### 📫 Connect With Me
+
+- GitHub: [github.com/Fatma-Zayed17](https://github.com/Fatma-Zayed17)
+- LinkedIn: [linkedin.com/in/fatma-zayed-3a21aa238](https://www.linkedin.com/in/fatma-zayed-3a21aa238)
+- Email: fatma221101040@gmail.com
+
+---
+
+*Thank you for visiting my profile! 😊*
+**

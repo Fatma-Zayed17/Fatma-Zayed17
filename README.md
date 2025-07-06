@@ -1,69 +1,81 @@
-*## Hi there 👋
+## 👋 Hi there, I'm Fatma Zayed!
 
-🎓 I'm **Fatma Zayed**, an Artificial Intelligence and Computer Science graduate from **King Salman International University**.  
-I'm passionate about turning complex problems into intelligent solutions using AI and modern technologies.
-
----
-
-### 🔍 About Me
-- 💡 I'm interested in **AI, Machine Learning, Deep Learning, NLP, Data Mining, and Knowledge-Based Systems**
-- 💻 I enjoy working on **data analysis, algorithm design, and building AI-powered applications**
-- 📚 I've also studied **Optimization Techniques, Linear Algebra**, and completed a **Digital Marketing** course
-- 🧠 I participated in **ICPC**, showcasing strong **problem-solving and algorithmic** skills
+🎓 A proud **Artificial Intelligence & Computer Science graduate** from **King Salman International University**.  
+💡 I'm passionate about creating real-world AI solutions that blend data, logic, and innovation.
 
 ---
 
-### 📌 Graduation Project:  
-#### Smart Vehicle for Plant Diseases Detection and Classification Using AI and IoT  
-> *(Farmer Eye Robotic Car)*
+## 🔹 About Me
 
-A smart robotic vehicle designed to detect and classify plant diseases in real-time using computer vision and IoT technologies.  
-The system uses a trained **CNN model** for image-based classification and is integrated with **temperature and humidity sensors** for environmental monitoring.
+- 🚀 **Curious mind in AI & Machine Learning**  
+  I’m deeply interested in topics like **Deep Learning**, **NLP**, **Data Mining**, and **Knowledge-Based Systems**.
 
-**Key Technologies Used:**
-- 🔹 Python, TensorFlow/Keras, OpenCV
-- 🔹 Arduino, DC Motors, Camera Module, DHT11 Sensor
-- 🔹 IoT-based Live Monitoring
-- 🔹 Image Classification & Disease Detection
+- 💻 **Problem Solver & Builder**  
+  I enjoy working on **data analysis**, **algorithm design**, and building intelligent applications that make an impact.
 
----
+- 📚 **Strong Academic Foundation**  
+  I studied **Optimization Techniques**, **Linear Algebra**, and completed a **Digital Marketing** course to strengthen both my technical and communication skills.
 
-### 🛠️ Technical Skills
-
-**Languages:**  
-`Python`, `Java`, `C++`
-
-**AI & ML:**  
-`Machine Learning`, `Deep Learning`, `CNN`, `LSTM`, `Data Mining`, `NLP`, `Knowledge-Based Systems`
-
-**Tools & Frameworks:**  
-`TensorFlow`, `Keras`, `Scikit-learn`, `OpenCV`, `Arduino`
-
-**Data Analysis & Visualization:**  
-`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-
-**Databases:**  
-`SQL`, `MySQL`, `Database Management Systems`
-
-**Others:**  
-`R Programming`, `Optimization Techniques`, `Digital Marketing`
+- 🧠 **ICPC Participant**  
+  My journey in **competitive programming** at ICPC sharpened my **problem-solving** and **algorithmic thinking**.
 
 ---
 
-### 🚀 Currently Exploring
-- Advanced NLP with Transformers 🤖
-- Real-world AI solutions for agriculture and healthcare 🌿
-- Building personal AI-based mini-projects
+## 🌱 Graduation Project
+
+### 🚘 Smart Vehicle for Plant Diseases Detection and Classification Using AI and IoT  
+**(Farmer Eye Robotic Car)**
+
+An AI-powered robotic car that identifies plant diseases using image processing and environmental sensors, helping farmers monitor crop health in real time.
+
+**🔍 Project Highlights:**
+- Trained **CNN model** to detect and classify diseases from leaf images
+- Integrated with **DHT11 sensors** to monitor temperature and humidity
+- Used **Arduino & IoT** for motor control and real-time data transmission
+- Developed using **Python**, **TensorFlow**, **OpenCV**, and **Arduino IDE**
 
 ---
 
-### 📫 Connect With Me
+## 🛠️ Technical Skills
 
-- GitHub: [github.com/Fatma-Zayed17](https://github.com/Fatma-Zayed17)
-- LinkedIn: [linkedin.com/in/fatma-zayed-3a21aa238](https://www.linkedin.com/in/fatma-zayed-3a21aa238)
-- Email: fatma221101040@gmail.com
+### 👨‍💻 Programming Languages  
+`Python` · `Java` · `C++`
+
+### 🧠 AI & Data Science  
+`Machine Learning` · `Deep Learning (CNN, LSTM)` · `NLP` · `Data Mining` · `Knowledge-Based Systems`
+
+### 📊 Data Analysis & Visualization  
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+
+### 🗃️ Databases  
+`SQL` · `MySQL` · `Relational Database Management`
+
+### ⚙️ Tools & Platforms  
+`TensorFlow` · `Keras` · `Scikit-learn` · `OpenCV` · `Arduino` · `Jupyter Notebook`
+
+### 📈 Others  
+`R Programming` · `Optimization Techniques` · `Digital Marketing Basics`
 
 ---
 
-*Thank you for visiting my profile! 😊*
-**
+## 🚀 Currently Exploring
+
+- 🤖 Advanced Natural Language Processing using Transformers (BERT, GPT)
+- 🌾 AI solutions for Smart Agriculture & Sustainable Tech
+- 🛠️ Building mini AI-powered tools & web-integrated projects
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 GitHub: [github.com/Fatma-Zayed17](https://github.com/Fatma-Zayed17)
+- 💼 LinkedIn: [linkedin.com/in/fatma-zayed-3a21aa238](https://www.linkedin.com/in/fatma-zayed-3a21aa238)
+- 📧 Email: fatma221101040@gmail.com
+
+---
+
+<p align="center">
+  💬 *Always learning, always building...* 🚀  
+  <br>
+  Thanks for visiting my profile! 😊
+</p>
